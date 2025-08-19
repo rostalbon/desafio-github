@@ -1,5 +1,7 @@
 from camara import Camara
 
+print("ESTE ES EL CAMBIO REALIZADO")
+
 titulo_programa = "CÁMARA FOTOGRÁFICA"
 print(f"╔═{"═" * len(titulo_programa)}═╗")
 print(f"║ {" " * len(titulo_programa)} ║")
